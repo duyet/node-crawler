@@ -44,7 +44,7 @@
     "iconv-lite": "0.4.4",
     "jschardet": "1.1.0",
     "lodash": "2.4.1",
-    "request": "2.42.0"
+    "request": "2.66.0"
   },
   "optionalDependencies": {
     "iconv": "*"
