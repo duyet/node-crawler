@@ -38,12 +38,12 @@
     "url": "https://github.com/sylvinus/node-crawler.git"
   },
   "dependencies": {
-    "cheerio": "0.18.0",
+    "cheerio": "0.20.0",
     "generic-pool": "2.1.1",
     "iconv": "2.1.6",
     "iconv-lite": "0.4.4",
     "jschardet": "1.1.0",
-    "lodash": "2.4.1",
+    "lodash": "4.17.21",
     "request": "2.42.0"
   },
   "optionalDependencies": {
